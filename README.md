@@ -1,1 +1,1 @@
-# Price-tier-front-end
+# Front-end for a price tier application.
